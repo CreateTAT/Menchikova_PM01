@@ -1,0 +1,24 @@
+h1{
+text-align:center;
+font-family: "Arial";
+font-style: italic;
+font-size: 24px;
+}
+.underline {
+border-bottom: 1px solid;
+}
+p{
+margin: 100px 280px 0px 30px;
+background-color: YellowGreen;
+}
+.class-pr {
+border: 4px double black;   
+}
+.shopindex {
+width: 50px;
+float:left;
+margin:2px; 
+} 
+img.im {
+margin-right: 15px;
+}
